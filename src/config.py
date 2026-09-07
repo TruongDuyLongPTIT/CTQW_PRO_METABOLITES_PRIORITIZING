@@ -66,7 +66,7 @@ KEGG_CURRENCY_METABOLITE = {
     'C00009',  # pi   (phosphate)
     'C00013',  # ppi  (pyrophosphate)
     'C00288',  # hco3 (HCO3-)
-    'C01342',  # nh4  (NH4+)
+    'C00014',  # nh3/nh4+  (NH3/NH4+)
     'C00059',  # so4  (sulfate)
 }
 
